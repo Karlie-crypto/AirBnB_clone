@@ -137,7 +137,7 @@ e37ebcd3-f8e1-4c1f-8095-7a019070b1fa
 user@ubuntu:~/AirBnB$ ./console.py
 ```
 
-## Available commands and what they do
+## Available commands and what they do:
 
 The recognizable commands by the interpreter are the following:
 
