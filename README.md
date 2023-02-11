@@ -169,6 +169,6 @@ The recognizable commands by the interpreter are the following:
 
 ## AUTHORS
 
-KARLIE MOYO | Email: [Karliecrypto](karlieemoyo@gmailmail.com) 
+KARLIE MOYO | [Karliecrypto](karlieemoyo@gmail.com) 
 
-NCHEDO OKONGWU | Github: [Dchedos] (nchedookongwu@yahoo.com)
+NCHEDO OKONGWU | [Dchedos](nchedookongwu@yahoo.com)
